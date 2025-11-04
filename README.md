@@ -35,12 +35,13 @@ A multifunctional Discord bot built with **discord.py**, featuring an XP system,
    use pip install
    
 3. Create a .env file in the project root and add:
-
-DISCORD_BOT_TOKEN=your_discord_token_here
-GIPHY_API_KEY=your_giphy_api_key_here
+   ```bash
+   DISCORD_BOT_TOKEN=your_discord_token_here
+   GIPHY_API_KEY=your_giphy_api_key_here
 
 4. Run the bot :)
-  python bot.py
+   ```bash
+     python bot.py
 
 
 ## Command Example
